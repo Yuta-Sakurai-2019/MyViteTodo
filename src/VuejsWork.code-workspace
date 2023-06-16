@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "VuejsWork",
+		"path": "../../.."
+	}
+],
+  "settings": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": false,
+    "editor.formatOnSave": true,
+    "prettier.singleQuote": true
+  }
+}
